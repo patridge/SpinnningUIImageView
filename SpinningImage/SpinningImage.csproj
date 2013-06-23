@@ -77,12 +77,18 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\" />
+    <Folder Include="Comparison\" />
+    <Folder Include="TableSample\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Info.plist" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AppDelegate.cs" />
+    <Compile Include="Comparison\ComparisonViewController.cs" />
+    <Compile Include="MenuViewController.cs" />
+    <Compile Include="Comparison\ComparisonView.cs" />
+    <Compile Include="TableSample\TableSampleTableViewController.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>

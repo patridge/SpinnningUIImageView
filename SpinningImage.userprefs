@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone.6.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpinningImage/TableSample/TableSampleTableViewController.cs">
+    <Files>
+      <File FileName="SpinningImage/TableSample/TableSampleTableViewController.cs" Line="74" Column="96" />
+      <File FileName="SpinningImage/Comparison/ComparisonView.cs" Line="46" Column="22" />
+      <File FileName="SpinningImage/MenuViewController.cs" Line="36" Column="92" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="SpinningImage" expanded="True">
+            <Node name="Comparison" expanded="True" />
+            <Node name="Resources" expanded="True" />
+            <Node name="TableSample" expanded="True" />
+            <Node name="Default-568h@2x.png" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
